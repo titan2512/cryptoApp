@@ -16,5 +16,11 @@ namespace CryptoAppv2
         {
             InitializeComponent();
         }
+
+        private void дешифрованиеToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Decryption decForm = new Decryption();
+            decForm.Show();
+        }
     }
 }
