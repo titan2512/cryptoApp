@@ -1,4 +1,0 @@
-C:\Users\shumskaya\Documents\Visual Studio 2012\Projects\CryptoApp\CryptoApp\bin\Debug\CryptoApp.exe.config
-D:\Program\CA_git\CryptoApp\bin\Debug\CryptoApp.exe.config
-D:\Program\CA_git\CryptoApp\obj\Debug\CryptoApp.csprojResolveAssemblyReference.cache
-D:\Program\CA_git\CryptoApp\obj\Debug\CryptoApp.csproj.GenerateResource.Cache
