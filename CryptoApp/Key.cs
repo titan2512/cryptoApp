@@ -8,14 +8,14 @@ namespace CryptoApp
 {
     public class Key
     {
-        public Key(int firstPart, int secondPart)
+        public Key(byte[] firstPart, byte[] secondPart)
         {
             FirstPart = firstPart;
             SecondPart = secondPart;
         }
 
-        public int FirstPart { get; set; }
+        public byte[] FirstPart { get; set; }
 
-        public int SecondPart { get; set; }
+        public byte[] SecondPart { get; set; }
     }
 }
